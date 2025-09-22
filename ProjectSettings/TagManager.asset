@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1888571317
+    locked: 0
+  - name: Walls
+    uniqueID: 4149850941
+    locked: 0
+  - name: Pellets
+    uniqueID: 3560130787
+    locked: 0
+  - name: Characters
+    uniqueID: 3179645765
+    locked: 0
+  - name: UI
+    uniqueID: 317645499
+    locked: 0
